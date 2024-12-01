@@ -30,3 +30,9 @@ To install the dependencies, run:
 ```bash
 pip install opencv-python numpy pycaw mediapipe comtypes
 
+## File Structure
+├── VolumeHandControl.py    # Main script for hand gesture volume control
+├── HandTrackingModule.py   # Custom module for hand tracking using MediaPipe
+└── README.md               # Project documentation
+
+
